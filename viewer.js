@@ -1,5 +1,5 @@
 // 파일 이름이 'book.epub'인지 확인하세요.
-var book = ePub("경제야 놀자.epub");
+var book = ePub("play.epub");
 
 var rendition = book.renderTo("viewer", {
     width: "100%", 
@@ -18,3 +18,4 @@ document.addEventListener("keyup", function(event){
     }
 
 });
+
