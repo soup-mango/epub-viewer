@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">dcb303be-90eb-46d1-9378-ca9c09797065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcb303be-90eb-46d1-9378-ca9c09797065</dc:identifier>
+        <dc:title>아래아의 책갈피: 21개의 이야기</dc:title>
+        <dc:creator opf:file-as="한예람, 변지우, 강지연, 송윤주, 손예현, 김다희, 이채빈, 윤현진, 민정인, 표지우, 김혜인, 문예린, 한예원, 문수아, 정하린, 박채현, 신유빈, 배가윤, 강온유, 김예온, 강민서" opf:role="aut">한예람, 변지우, 강지연, 송윤주, 손예현, 김다희, 이채빈, 윤현진, 민정인, 표지우, 김혜인, 문예린, 한예원, 문수아, 정하린, 박채현, 신유빈, 배가윤, 강온유, 김예온, 강민서</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-10-27T15:00:00+00:00</dc:date>
+        <dc:publisher>ABOU</dc:publisher>
+        <dc:language>ko</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="표지" href="cover.jpg"/>
+    </guide>
+</package>
