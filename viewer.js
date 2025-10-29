@@ -1,5 +1,5 @@
 // 파일 이름이 'book.epub'인지 확인하세요.
-var book = ePub("play.epub");
+var book = ePub("book.epub");
 
 var rendition = book.renderTo("viewer", {
     width: "100%", 
@@ -18,4 +18,5 @@ document.addEventListener("keyup", function(event){
     }
 
 });
+
 
